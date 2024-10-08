@@ -19,8 +19,8 @@ Clone the repository:
 Open your browser and go to http://localhost:3000.
 
 # Usage
-Homepage: Displays a list of tracked cryptocurrencies with their current prices.
-Search: Use the search bar to find specific cryptocurrencies.
+- Homepage: Displays a list of tracked cryptocurrencies with their current prices.
+- Search: Use the search bar to find specific cryptocurrencies.
 
 # Contributing
 Contributions are welcome! Please follow these steps:

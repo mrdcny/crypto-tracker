@@ -1,8 +1,7 @@
 "use client"
 import { useEffect, useState } from 'react';
-import SearchBar from './components/SearchBar';
-import Header from './components/Header';
-import CoinList, { Asset } from './components/CoinList';
+import SearchBar from '@/app/components/SearchBar';
+import CoinList, { Asset } from '@/app/components/CoinList';
 
 export default function Home() {
 	const [data, setData]: any[] = useState([]);
